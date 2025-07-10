@@ -23,3 +23,5 @@ In general, ci degrees are more difficult than the analogous degrees at other in
 ## Timeline
 
 2025-07-07: The Carpenter Institute is formally founded. Wyatt S Carpenter is the president of the Carpenter Institute. This document is begun and made available at https://wyattscarpenter.github.io/institute
+
+2025-07-10: Jason Anthony Gray is named a fellow.
